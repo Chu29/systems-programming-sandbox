@@ -1,0 +1,15 @@
+# Compiled object files and executables
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.pdb
+
+# Extensionless binaries produced by the examples
+**/do-while
+**/for
+**/main
+**/ourProgram
+**/while
+**/format
