@@ -1,0 +1,17 @@
+# Compiled C outputs and executables
+*.o
+*.obj
+*.out
+*.exe
+
+# Project-specific binaries from the learning exercises
+**/main
+**/for
+**/while
+**/do-while
+**/ourProgram
+**/format
+**/sum
+
+# Editor metadata
+.vscode/
